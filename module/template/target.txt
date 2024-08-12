@@ -1,0 +1,17 @@
+com.google.android.gms!
+io.github.vvb2060.keyattestation!
+io.github.vvb2060.mahoshojo!
+icu.nullptr.nativetest!
+com.coloros.sceneservice!
+com.crgt.ilife!
+com.nearme.instant.platform!
+com.oplus.account!
+com.heytap.speechassist!
+com.oplus.stdsp!
+com.oplus.travelengine!
+com.oplus.deepthinker!
+com.oplus.acc.gac!
+com.tencent.mm!
+com.liuzh.deviceinfo!
+com.flinkapps.safteynet!
+com.ais.mimo.eservice!
