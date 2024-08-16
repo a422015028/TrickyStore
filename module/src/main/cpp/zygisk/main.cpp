@@ -256,11 +256,11 @@ static void companion_handler(int fd) {
     constexpr auto kSpoofConfigFile = "/data/adb/tricky_store/spoof_build_vars"sv;
     constexpr auto kDefaultSpoofConfig =
 R"EOF(MANUFACTURER=Google
-MODEL=Pixel 8 Pro
-FINGERPRINT=google/husky_beta/husky:15/AP31.240617.015/12207491:user/release-keys
+MODEL=Pixel 8a
+FINGERPRINT=google/akita_beta/akita:15/AP31.240617.015/12207491:user/release-keys
 BRAND=google
-PRODUCT=husky_beta
-DEVICE=husky
+PRODUCT=akita_beta
+DEVICE=akita
 RELEASE=15
 ID=AP31.240617.015
 INCREMENTAL=12207491
